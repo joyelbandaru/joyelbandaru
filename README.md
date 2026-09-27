@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mary Joyel
 
 🎓 B.Tech Computer Science Graduate | 📊 Aspiring Data Analyst
-💡 Interested in Data Analytics, SQL, Excel, Python & Machine Learning
+💡 Interested in Data Analytics, SQL, Excel, Python, Power BI & Machine Learning
 🔍 Passionate about turning data into meaningful insights
 🚀 Building real-world projects and continuously expanding my technical skills
 📍 India
@@ -18,6 +18,7 @@
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square\&logo=microsoft-excel\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square\&logo=power-bi\&logoColor=black)
 
 ### 🐍 Python & Data Libraries
 
@@ -38,12 +39,12 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square\&logo=visual-studio-code\&logoColor=white)
 
-
 # 📚 Currently Learning
 
 * Advanced Excel
 * SQL for Data Analytics
 * Python for Data Analysis
+* Power BI & DAX
 * Data Visualization
 * Machine Learning
 
@@ -53,6 +54,6 @@
 
 ## 🤝 Let's Connect
 
-I'm actively building my skills in **Data Analytics, SQL, Excel and Python**, and I'm open to opportunities where I can learn, contribute and grow.
+I'm actively building my skills in **Data Analytics, SQL, Excel, Power BI and Python**, and I'm open to opportunities where I can learn, contribute and grow.
 
 ⭐ Thanks for visiting my profile!
